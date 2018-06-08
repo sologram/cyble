@@ -3,11 +3,15 @@
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
 <CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="cyble" persistent="cyble.cywrk" platform="NOT_USED">
-<current_project name=".\Peripheral and Broadcaster\Peripheral and Broadcaster.cydsn\Peripheral and Broadcaster.cyprj" />
+<current_project name=".\Peripheral and Broadcaster.cydsn\Peripheral and Broadcaster.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
-<v>.\Peripheral and Broadcaster\Peripheral and Broadcaster.cydsn\Peripheral and Broadcaster.cyprj</v>
+<v>.\BLE_Central_Observer.cydsn\BLE_Central_Observer.cyprj</v>
+<v>.\Central and Peripheral.cydsn\Central and Peripheral.cyprj</v>
+<v>.\Client and Server-Central.cydsn\Client and Server-Central.cyprj</v>
+<v>.\Client and Server-Peripheral.cydsn\Client and Server-Peripheral.cyprj</v>
+<v>.\Peripheral and Broadcaster.cydsn\Peripheral and Broadcaster.cyprj</v>
 </projects>
 <workspace_id v="26af7427-07d7-4940-a9fc-53936b912fb5" />
 <WriteAppVersionLastSavedWith v="4.1.0.3210" />
